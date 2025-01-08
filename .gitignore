@@ -1,0 +1,90 @@
+# Byte-compiled / optimized / compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.pyenv/
+.pipenv/
+poetry.lock
+Pipfile.lock
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest
+.cache/
+*.pytest_cache
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pyright
+pyrightconfig.json
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite3
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# PyCharm
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*.swp
+.swp

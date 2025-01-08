@@ -4,14 +4,6 @@ Typechecker is a lightweight Python library for validating function arguments an
 
 ---
 
-## **Features**
-- Automatic runtime type checking for function arguments and return values.
-- Supports complex types, including List, Dict, Tuple, Union, Optional, and nested generics.
-- Works with instance methods, class methods, and static methods.
-- Includes helpful error messages with truncated collections for better readability.
-
----
-
 ## **Installation**
 Install Typechecker with pip:
 ```

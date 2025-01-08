@@ -1,7 +1,5 @@
 import pytest
 from typing import List, Tuple, Dict, Union, Optional
-
-# Assuming your module is named "typecheck.py" and has the decorator "typecheck"
 from typechecker import typecheck
 
 def test_no_type_hints():
