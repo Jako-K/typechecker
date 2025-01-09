@@ -7,7 +7,7 @@ Typechecker is a lightweight Python library for validating function arguments an
 ## **Installation**
 Install Typechecker with pip:
 ```
-pip install typechecker
+pip install git+https://github.com/Jako-K/typechecker.git
 ```
 ---
 
