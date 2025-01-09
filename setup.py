@@ -10,7 +10,7 @@ setup(
     url="https://github.com/Jako-K/typechecker",
     packages=find_packages(),
     install_requires=["pytest"], 
-    python_requires=">=3.7",
+    python_requires=">=3.9",
     classifiers=[
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",
